@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="windows-1252">
+  <meta name="generator" content="Microsoft Word 15">
+  <meta name="author" content="Hector Alfonso pimentel cabrera">
+  <meta name="created" content="2026-02-10T05:08:00Z">
+  <meta name="lastsaved" content="2026-02-10T16:54:00Z">
+  <title>Web Quest Metodología de la investigación (PRESENTACION)</title>
+  <style>
+    /* Minimal inline styles extracted from the original document for basic layout */
+    body { font-family: "Aptos", "Times New Roman", serif; background: #45B0E1; margin: 0; padding: 20px; }
+    .container { max-width: 1109.5pt; margin: 0 auto; background: #fff; padding: 18px; box-sizing: border-box; }
+    h1 { font-size: 20pt; color: #000; text-align: center; margin: 0 0 12px; }
+    .sidebar { float: left; width: 160px; }
+    .content { margin-left: 180px; }
+    .menu a { display: block; font-size: 20pt; color: #000; text-decoration: none; margin: 8px 0; }
+    .center { text-align: center; }
+    .small { font-size: 14pt; }
+    .clear { clear: both; }
+    img { max-width: 100%; height: auto; display: block; margin: 8px auto; }
+    table { width: 100%; border-collapse: collapse; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Web Quest Metodología de la investigación (PRESENTACION)</h1>
+
+    <div class="sidebar">
+      <nav class="menu" aria-label="Navegación">
+        <a href="introduccion.htm">Introducción</a>
+        <a href="Redacci�n%20medico%20cient�fica.htm">Redacción medico cient�fica</a>
+        <a href="Tipos%20de%20trabajos%20cient�ficos.htm">Tipos de trabajos científicos</a>
+        <a href="Componentes%20centrales%20de%20los%20trabajos%20cient�ficos.htm">Componentes centrales</a>
+        <a href="Producci�n%20y%20divulgaci�n%20de%20los%20trabajos%20cient�ficos.htm">Producción y divulgación</a>
+        <a href="Escenarios%20de%20publicaci�n%20y%20divulgaci�n%20de%20trabajos%20cient�ficos.htm">Escenarios de publicación</a>
+        <a href="Conclusi�n.htm">Conclusión</a>
+        <a href="Bibliograf�a.htm">Bibliografía</a>
+      </nav>
+    </div>
+
+    <div class="content">
+      <div class="center">
+        <img src="Doc3_archivos/image001.jpg" alt="Imagen institucional">
+        <p class="small"><strong>Universidad Autónoma de Santo Domingo (UASD)</strong></p>
+        <p class="small">Facultad Ciencias de la salud — Escuela de medicina</p>
+
+        <h2 class="small">Nombres</h2>
+        <p class="small">Hector Alfonso Pimentel Cabrera — 100612725</p>
+        <p class="small">Luis Alberto Rodríguez — 100576987</p>
+        <p class="small">Ramona Ysabel Castillo — 100475868</p>
+        <p class="small">Stephanie Fa�a Espinal — 100592995</p>
+
+        <h2 class="small">Maestra</h2>
+        <p class="small">Olga Lucia Jape Collins</p>
+
+        <h2 class="small">Sección</h2>
+        <p class="small">W04</p>
+
+        <h2 class="small">Fecha de realización</h2>
+        <p class="small">10 de febrero del 2026</p>
+
+        <p class="small">Seminario: La escritura Medico- Científica</p>
+
+        <img src="Doc3_archivos/image003.jpg" alt="Imagen decorativa" style="float:right; max-width:320px;">
+      </div>
+
+      <div class="clear"></div>
+    </div>
+
+    <div class="clear"></div>
+  </div>
+</body>
+</html>
